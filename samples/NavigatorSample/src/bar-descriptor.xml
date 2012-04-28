@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<qnx>
+        <initialWindow>
+                <systemChrome>none</systemChrome>
+                <transparent>false</transparent>
+        </initialWindow>
+
+        
+
+        <!-- The splashscreen that will appear when your application is launching. 
+                Should be 1024x600. -->
+        <!-- <splashscreen>helloworld-splash.png</splashscreen> -->
+        <!-- The permissions requested by your application. -->
+        <!-- <permission>access_shared</permission> -->
+        <!-- <permission>record_audio</permission> -->
+        <!-- <permission>read_geolocation</permission> -->
+        <!-- <permission>use_camera</permission> -->
+        <!-- <permission>access_internet</permission> -->
+        <!-- <permission>play_audio</permission> -->
+        <!-- <permission>post_notification</permission> -->
+        <!-- <permission>set_audio_volume</permission> -->
+        <!-- <permission>read_device_identifying_information</permission> -->
+        <!-- Fourth digit segment of the package version. First three segments are 
+                taken from app description versionNumber tag. Must be an integer from 0 to 
+                2^16-1 -->
+
+        <action system="true">run_air_native</action>
+        
+</qnx>
